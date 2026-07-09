@@ -44,4 +44,4 @@ Deliver a network design proposal that supports 50 employees across multiple dep
 - [`docs/7-1_Project.docx`](docs/7-1_Project.docx) — full network design proposal (IT-212, June 2025): ISP/topology selection, VLAN & IP addressing plan, hardware/software stack, QoS, and troubleshooting/maintenance strategy
 
 ---
-🔗 Part of my [cybersecurity portfolio](https://samuelroulstone.com) · [Back to profile](../profile-readme)
+🔗 Part of my [cybersecurity portfolio](https://samuelroulstone.com) · [Back to profile](https://github.com/samuelroulstone)
